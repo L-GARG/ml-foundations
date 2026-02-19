@@ -1,0 +1,5 @@
+README(analysis)
+1) medIncome mattered the most
+2) medIncome and pprices, latitude and longitude(location), avgRooms
+3) It may be needed but I did not use any
+4) The r2score and mse where not that great so maybe we can use different more complex models
