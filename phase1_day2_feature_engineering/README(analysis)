@@ -1,0 +1,5 @@
+README(analysis)
+1) MedInc is the most important feature in the dataset.
+2) Nope the results were same for this model with both with and without feature scaling.
+3) Removig the less important features did not improve the model performance by ,uch just a slight change.
+4) It is because the less important features did not include/added much noise, but if they would have added a lot of outliers and noise it would have been effective.
