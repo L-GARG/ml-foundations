@@ -1,0 +1,5 @@
+README(analysis)
+1) Naive Bayes Algorithm
+2) Naive Bayes is better as it is good with text also assumes each word as independent, works good with text frequency problems
+3) No
+4) SVM, deep models, more data, better preprocessing, stopword removal.
